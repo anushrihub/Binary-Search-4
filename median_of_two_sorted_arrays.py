@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/median-of-two-sorted-arrays
-# Time Complexity- O() Space Complexity- O()
+# Time Complexity- O(log(min(m,n))) Space Complexity- O(1)
 
 class Solution:
     def findMedianSortedArrays(self, nums1, nums2):
